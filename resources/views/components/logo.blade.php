@@ -1,0 +1,1 @@
+<img class="h-8 w-auto" src="{{ url('images/logo-small.png') }}" alt="">
