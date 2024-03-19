@@ -1,3 +1,5 @@
+<!-- Component URL: https://www.figma.com/file/BzrSni6dTrsPLvu74sTusm/Flex-UI-library-for-Tailwind-CSS-(Community)?type=design&node-id=164-3376&mode=design&t=eqoSuiZ3NLGC4red-0 -->
+
 @section('footer')
 <div class="relative w-full bg-primary pt-24 pb-16">
     <div class="z-30 max-w-4xl flex flex-col items-center mx-auto">
@@ -15,10 +17,3 @@
     </div>
 </div>
 @show
-
-<!-- Services
-Projects
-Team
-Pricing
-Help
-Privacy -->

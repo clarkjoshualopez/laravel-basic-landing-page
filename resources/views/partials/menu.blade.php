@@ -1,3 +1,5 @@
+<!-- Component URL: https://www.figma.com/file/BzrSni6dTrsPLvu74sTusm/Flex-UI-library-for-Tailwind-CSS-(Community)?type=design&node-id=164-3376&mode=design&t=eqoSuiZ3NLGC4red-0 -->
+
 @section('menu')
 <header class="bg-primary">
   <nav class="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
